@@ -1,0 +1,24 @@
+# Build
+build/
+.gradle/
+gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NeoForge run data
+run/
+runs/
+src/generated/
+
+# Misc
+*.log
+*.bak
+*.tmp
